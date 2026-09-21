@@ -1,0 +1,6 @@
+selenium
+undetected-chromedriver
+Pillow
+requests
+# Python 3.12에서도 undetected-chromedriver가 사용하는 distutils를 제공한다.
+setuptools
