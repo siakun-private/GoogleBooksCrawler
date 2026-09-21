@@ -166,3 +166,7 @@ output.pdf
 *.pdf
 *.jpg
 settings.ini
+
+# Local verification and relocated book exports
+/.local/
+/epub-crawler/output/
