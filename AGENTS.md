@@ -1,6 +1,6 @@
 # 작업 시작점
 
-이 저장소에는 수집 대상의 표현 방식이 다른 크롤러가 있습니다. 이미지와 PDF 작업은 [image-crawler/AGENTS.md](image-crawler/AGENTS.md), 본문과 EPUB 및 HTML 뷰어 작업은 [epub-crawler/AGENTS.md](epub-crawler/AGENTS.md)를 먼저 읽습니다. 두 폴더의 실행 환경과 출력 디렉터리를 합치지 않습니다.
+이 저장소에는 수집 대상의 표현 방식이 다른 크롤러가 있습니다. 이미지와 PDF 작업은 [image-crawler/AGENTS.md](image-crawler/AGENTS.md), 본문과 EPUB 및 HTML 뷰어 작업은 [epub-crawler/AGENTS.md](epub-crawler/AGENTS.md)를 먼저 읽습니다. 두 폴더의 실행 환경, 브라우저 세션과 출력 디렉터리를 합치지 않습니다.
 
 사용자가 로그인해 읽는 책을 로컬에 보관하는 범위에서 작업합니다. 쿠키, 인증 헤더, 토큰이나 브라우저 프로필을 문서나 커밋에 넣지 않습니다. 책 본문과 수집 자산은 각 크롤러의 무시된 출력 디렉터리에 보관합니다.
 
